@@ -44,7 +44,8 @@ software architect...freelance dev... and who knows about the future ☺️
         <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/josé-antonio-concepción-garcía-628918280">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Ghyfass">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+			<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		
 		
 </div>
 
