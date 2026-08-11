@@ -26,7 +26,7 @@ software architect...freelance dev... and who knows about the future ☺️
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,css,html,nodejs,mysql,angular,spring,git,github,docker,kubernetes,figma,postman,vscode,bash,linux,opencode=12" />
+    <img src="https://skillicons.dev/icons?i=java,js,py,css,html,nodejs,mysql,angular,express,spring,git,github,docker,kubernetes,figma,postman,vscode,bash,linux,opencode=12" />
   </a>
 </p>
 <br>
